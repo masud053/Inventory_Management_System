@@ -41,6 +41,10 @@ python main.py
 ```
 
 
+python pyqt5 sqlite3 inventory-management desktop-application gui-app bcrypt matplotlib pandas openpyxl pillow database-application admin-dashboard role-based-access system-design software-engineering project
+
+
+
 
 
 
