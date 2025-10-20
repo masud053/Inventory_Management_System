@@ -1,0 +1,7 @@
+PyQt5>=5.15
+bcrypt
+pandas
+reportlab
+matplotlib
+pillow
+openpyxl
