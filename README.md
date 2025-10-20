@@ -32,8 +32,8 @@ Perfect for demonstrating **software engineering**, **UI/UX design**, and **data
 ## Installation
 
 ```bash
-git clone https://github.com/<yourusername>/desktop-inventory-system.git
-cd desktop-inventory-system
+[git clone https://github.com/<yourusername>/desktop-inventory-system.git](https://github.com/masud053/Inventory_Management_System.git)
+cd Inventory_Management_System
 python -m venv venv
 source venv/bin/activate      # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
